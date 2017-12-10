@@ -1,0 +1,34 @@
+Hi, there is my first multiplayer game with Unity3D. So many time spent on the network and not on the game :( But it was very interesting and I learn a lot.
+
+Let me know if the network work fine for you and if is not, launch the offline mode to try the game.
+
+Don’t forget to use you shield with space.
+
+Enjoy :)
+
+<bold>Top score</bold> : (Share your score on comment)
+- Popey : 132
+- Swolk : 122
+- O.fée : 121
+- Oximore : 119
+
+Menu
+![Menu.PNG](///raw/a73/d/z/d687.png)
+
+InGame
+![InGame.PNG](///raw/a73/d/z/d688.png)
+
+
+Changelog :
+- V1.0 : Ludum Dare 40 Build.
+- V1.01 : Update UI and fix disconnect button.
+
+Todo : 
+- Balance the Game
+- Create "LAN Network" Button
+- Crate a map becaus this one is my test map :p
+- Add Score of other players
+- Add player login
+- WEB version
+- Add music
+

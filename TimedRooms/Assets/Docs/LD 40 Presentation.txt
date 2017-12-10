@@ -1,0 +1,40 @@
+## Story
+
+Are you ready to collect coins ? You are a little blue square and you need coins to buy a new color. So you enter into the arena to achive your dream :) You need **200 coins** to become a green square, could you do that for him ?
+
+**Kill enemies** to collect more coins, **avoid projectiles** and other things to stay alive and **use your shield** if you are surrounded.
+
+## Controls
+
+**W**,**A**,**S**, **D** or **Arrows** to move.
+
+**Left click** to fire
+
+**Space** or **Right click** to use your shield.
+
+## Ludum 40 objectif
+My first goal was to create a multiplayer game. I spent a lot of time on it because it was my first one, so the final game is not realy a game ^^. I worked a little this week to finish it without multiplayer part and submit V1.1.
+
+## Top scores
+Share your score on comment :)
+
+## Screens
+![Menu-InGame.PNG](///raw/a73/d/z/e5d7.png)
+
+**Cancel (or accept) the firewall alert**, you create a local server and connect on it because I tried to create a multiplayer game at first :)
+![FireWallAllert.PNG](///raw/a73/d/z/e5da.png)
+
+## Changelog
+
+- **V1.00** : Ludum Dare 40 Build.
+- **V1.01** : Update UI and fix disconnect button.
+- **V1.1** : Game balanced. Circle bounce ennemy added. Tuto added. End game menu added. Incincibility on spawn. Objects don't spwan on wall.
+
+## Todo
+
+- [x] Balance the Game
+- [x] Add tuto
+- [ ] Crate a map becaus this one is my test map :p
+- [ ] WEB version
+- [ ] Add music
+- [ ] Fix all bugs and synchronisations issues on multiplayer (maybe one day ^^)

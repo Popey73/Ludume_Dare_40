@@ -1,0 +1,8 @@
+1.02
+- Spawn invincibyliti
+- FX dommage and heal
+- Death menu
+- No spawn on wall
+- Ghost don't kill the first second
+- Red on low life
+- Balance a litle
